@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-I'm a senior at Piedmont Hills High School interested in software, machine learning, statistics, and physics. I also enjoy building things and competing in olympiads. Most of my repositories are private.
+I'm an undergraduate student at UC Berkeley studying Electrical Engineering & Computer Science. I'm interested in software, machine learning, statistics, and physics. I also enjoy building things and competing in olympiads. Most of my repositories are private.
 <br><br><br>
 
 <p align="center">
